@@ -1,3 +1,8 @@
+// The purpose of this file is for practicing basic JavaScript functions.
+// The idea is that I don't want to let myself forget the basics, so this is all
+// for practice.
+
+
 //Create a function that takes a number as an argument,
 //increments the number by +1 and returns the result.
 
