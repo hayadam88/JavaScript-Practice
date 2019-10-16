@@ -5,7 +5,6 @@
 
 //Create a function that takes a number as an argument,
 //increments the number by +1 and returns the result.
-
 function addition(num) {
     return ++num
 }
@@ -33,3 +32,5 @@ function convert(minutes) {
 function remainder(x, y) {
     return x % y
 }
+
+// Next test here
