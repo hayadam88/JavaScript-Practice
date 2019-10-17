@@ -1,0 +1,1 @@
+This project is simply a place for me to practice my JavaScript
